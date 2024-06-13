@@ -6,7 +6,7 @@ The collection counts ~11,5K news headlines in tab-separated text file [gaza-new
 > Start date: 2023/01/10
 > End date: 2024/06/12 
 
-Wall Street Journal news on Middle East is here: 
+Wall Street Journal news collection (655 news) on Middle East is here: [wsj-news-middleeast.txt](https://github.com/evgeny-kolonsky/gaza-news/blob/main/wsj-news-middleeast.txt)
 
 Possible usage:
 1. Statistics.
